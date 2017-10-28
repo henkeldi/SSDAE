@@ -1,3 +1,3 @@
 # SSD-AE
 
-[Overview](doc/overview.png)
+![Overview](doc/overview.png)
